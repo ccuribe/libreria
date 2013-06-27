@@ -9,6 +9,10 @@ package practicaclases;
  * @author Cristian
  */
 public class Cliente {
-    long idCliente;
-    String nombreCliente;
+    private long idCliente;
+    private String nombreCliente;
+    
+    public void createCliente(){
+        
+    }
 }
