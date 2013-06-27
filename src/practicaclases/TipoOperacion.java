@@ -9,6 +9,10 @@ package practicaclases;
  * @author Cristian
  */
 public class TipoOperacion {
-    String descripcion;
-    long idTipoOperacion;
+    private String descripcion;
+    private long idTipoOperacion;
+    
+    public void tipoOperacion(){
+        
+    }
 }
