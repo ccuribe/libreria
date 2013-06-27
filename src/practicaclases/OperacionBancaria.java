@@ -11,7 +11,15 @@ import java.util.Date;
  * @author Cristian
  */
 public class OperacionBancaria {
-    String ClaveOperacion;
-    Date fechaOperacion;
-    long idOperacion;
+   private String ClaveOperacion;
+   private Date fechaOperacion;
+   private long idOperacion;
+   
+   public void CreateOperacionBancaria(){
+       
+   }
+   
+   public void getListOperacionByDate(Date fecha1,Date fecha2){
+       
+   }
 }
